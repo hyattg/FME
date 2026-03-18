@@ -1,6 +1,8 @@
-# Field Microbial Ecology (FME)
+# EFB 496: Field Microbial Ecology
 
-Public course documents for **Field Microbial Ecology**, a field course offered at [Cranberry Lake Biological Station](https://www.esf.edu/cranberrylake/) (SUNY ESF).
+Public course documents for **EFB 496: Field Microbial Ecology**, a residential field course offered at [Cranberry Lake Biological Station](https://www.esf.edu/cranberrylake/) (SUNY ESF).
+
+**Instructor:** Hyatt Green — hgreen@esf.edu
 
 ## Contents
 
@@ -12,7 +14,7 @@ Public course documents for **Field Microbial Ecology**, a field course offered 
 
 ## About the Course
 
-Field Microbial Ecology is an intensive field course that introduces students to the diversity, ecology, and environmental roles of microorganisms in natural ecosystems. Students combine classical and molecular approaches to sample, identify, and quantify microbial communities across the varied habitats surrounding Cranberry Lake, NY, developing skills in field sampling design, laboratory analysis, and ecological data interpretation.
+EFB 496 is an intensive, two-week field course in which students investigate microbial ecology in the forests, lakes, streams, and wetlands surrounding Cranberry Lake, NY. Students design and conduct experiments examining key microbial metabolisms — phototrophy, nitrogen fixation, iron oxidation, sulfate reduction, and methanogenesis — and develop skills in field sampling, microscopy, culture techniques, and data analysis using R.
 
 ## License
 
