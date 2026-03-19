@@ -4,7 +4,7 @@
 ## Practical Information
 
 - **Credits:** Three (satisfies field elective requirement)
-- **Meets:** July 6–17, 2026 (no class July 12)
+- **Meets:** July 5–17, 2026 (no class July 12)
 - **Location:** Cranberry Lake Biological Station
 - **Instructor:** Hyatt Green
 - **Email:** hgreen@esf.edu
